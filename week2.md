@@ -15,3 +15,9 @@ day4 : how llm toole calling or gpt communication happen llm is token generator 
 day4 : Air line Application chatbot
 day4 : multiple tool calling pythin fn
 day 5 : major project booking app with multi model and multi tool calling
+
+day 5 : image generator and gradio how its work
+gr.Interface ,gr.chatinterface,gr.blocks
+gr.image
+gr.audio
+image generation with different models
